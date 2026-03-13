@@ -102,7 +102,7 @@ namespace GSTSMS.Controllers
         }
 
 
-        //login am
+        //login am hello
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<ActionResult> LoginRK(Account model)
